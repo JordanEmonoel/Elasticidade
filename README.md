@@ -1,5 +1,5 @@
 # Elasticidade
-Diferentes cálculos de elasticidade
+Diferentes cálculos de elasticidade:
 
 .Elasticidade Preço da Demanda
 
@@ -8,3 +8,6 @@ Diferentes cálculos de elasticidade
 .Elasticidade da Renda
 
 .Elasticidade da Oferta
+
+
+Boa Sorte pra você que está no início de microeconomia I rsrsrs
